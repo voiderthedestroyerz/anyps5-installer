@@ -1,5 +1,7 @@
 AnyPS5 Installer for Linux Mint
 
+Discord server: https://discord.gg/GNYmtZMwKB
+
 An automated bash script that checks dependencies, installs required packages, initializes submodules, and compiles AnyPS5 from source on Linux Mint and Debian/Ubuntu-based systems.
 📋 Requirements
 
@@ -50,3 +52,5 @@ AnyPS5 itself is licensed separately under the GPL v2 License.
     AnyPS5 Core Developers: Full credit goes to boykopovar and the original contributors for creating AnyPS5.
 
     Disclaimer: This installer script was generated with the assistance of Google Gemini and is not officially maintained or endorsed by the AnyPS5 development team.
+    
+    Discord server: https://discord.gg/GNYmtZMwKB
